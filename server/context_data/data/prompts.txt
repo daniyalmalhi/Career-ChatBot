@@ -1,0 +1,3 @@
+What is LLama Index?
+LlamaIndex is a data framework for Large Language Models (LLMs) based applications. LLMs like GPT-4 come pre-trained on massive public datasets, allowing for incredible natural language processing capabilities out of the box.
+Source (Link) of information: https://www.google.com/search?q=what+is+llama+index&rlz=1C1KNTJ_enPK1066PK1066&oq=what+is+llama+index&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGAoYgAQyBggCEEUYQDIJCAMQABgKGIAEMgoIBBAAGAoYFhge0gEINDk5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8

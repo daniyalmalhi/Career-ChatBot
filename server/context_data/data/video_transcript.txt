@@ -1,0 +1,597 @@
+a veces en la vida llega algo que lo
+cambia todo
+ya está aquí hay una mega plataforma y
+productora digital 4.0 con productos y
+servicios tan increíbles que al verla te
+parecerá que estás viajando al futuro
+permítenos presentarte algunos de ellos
+campus 4.0 se trata de un campus
+corporativo permanente personalizado que
+tu empresa podrá desarrollar en unas
+pocas horas con una calidad y coste
+inmejorables basado en la tecnología
+digital más avanzada permite a todos los
+empleados acceder de forma instantánea
+grandes packs de cursos podcasts
+píldoras libros y otros contenidos con
+una calidad audiovisual superior a la de
+muchas cadenas de televisión y vuelco
+los planes de acogida suponen un enorme
+coste para las empresas tanto en tiempo
+como en dinero el y welcome resuelve
+este problema pudiendo digitalizar este
+proceso a través de nuestra plataforma y
+nuestra producción audiovisual ultra
+competitiva en este formato podrás
+ofrecer a tus nuevas incorporaciones
+durante un año la presentación de tu
+empresa los procesos informáticos de
+trabajo
+la comunicación de riesgos la de
+protección de datos las recomendaciones
+de ergonomía y otros procesos
+todo ello con los registros
+correspondientes y welcome porque sólo
+hay una oportunidad de causar una
+primera gran impresión y product tus
+comerciales aún andan con folletos como
+en el siglo 20 usa clave como portfolio
+digital de productos presentando micro
+vídeos de cada uno de ellos y dando
+acceso a sus clientes para conocerlos en
+profundidad poder lanzar las campañas
+promocionales presentaciones de nuevos
+productos etcétera además puedes
+complementarlo con iu research un
+conjunto de vídeos sobre cómo reparar
+cada vería esta funcionalidad a la que
+puedes dotar de múltiples idiomas te
+permitirá formar a toda tu red de
+mantenimiento interna o externo en
+tiempo récord a un coste insignificante
+y how tu empresa tiene productos que hay
+que montar instalar tiene software que
+precisa aprenderse bueno pues esta es tu
+herramienta crea con nosotros tus
+tutoriales y colocados en una plataforma
+exclusiva y de acceso inmediato todas
+nuestras herramientas pueden verse desde
+smartphones tablets ordenadores
+televisión o radio
+accediendo a los contenidos de forma
+instantánea además por ser cliente
+tendrás acceso a unos costes de
+producción audiovisual
+extraordinariamente competitivos que te
+permitirán cumplir todo aquello que
+siempre deseaste en múltiples campos de
+la empresa uggla es una plataforma
+digital única colaborativa instantánea
+fascinante
+Source (Link) of Information: https://www.youtube.com/watch?v=TwipifOVZUw&t=64s
+meta lo acaba de hacer acaban de sacar
+la segunda versión de su modelo llama
+han sacado llama 2 en un movimiento que
+rompe por completo todo el mercado de
+los modelos de generación de texto
+cogiendo la puerta que poco a poco
+Durante los últimos años openillai ha
+ido cerrando y abriéndola de una patada
+por completo y además haciendo esto de
+la mano de Microsoft quien Ahora parece
+ver un Aliado nuevo para la batalla de
+las ías en meta Por qué Y quién se
+beneficia de todo esto y bueno Cómo salí
+ganando vosotros en esta lucha de
+grandes empresas hoy vamos a estar
+comentando Por qué la salida de llamados
+Es toda una Revolución en el campo de la
+Inteligencia artificial y hablando de
+grandes modelos del lenguaje y de todo
+el impacto que va a tener esta
+tecnología en el futuro inmediato tengo
+que hablar de este Máster de aquí el
+master Ejecutivo en Inteligencia
+artificial del ia el instituto de
+Inteligencia artificial que ya hemos
+comentado aquí en el canal meses
+anteriores Y que llega con una sexta
+edición una edición que va a comenzar en
+el mes de octubre que podéis auriculares
+ya las plazas son limitadas así que
+tenéis que ser rápidos y este es un
+máster que está muy bien orientado si
+queréis aprender sobre toda esta
+revolución de la guía desde un enfoque
+no técnico vale no hace falta ningún
+conocimiento previo para poder
+matricularse porque este máster está
+orientado sobre todo a aprovechar en
+proyectos reales a saber cómo utilizar
+todo el potencial de esta tecnología en
+vuestros proyectos a conocer las
+arquitecturas más importantes que están
+saliendo ahora y todo esto de la mano de
+gente muy experta gente que sabe muy
+bien trabajar con toda esta tecnología
+como Andrés torrubia quien ha estado en
+el canal un montón de veces y que ya
+conocéis y luego también pues una serie
+de expertos que van a estar participando
+y que son gente protagonista de toda
+esta Revolución que está sucediendo
+ahora tenemos gente como Cristóbal
+Valenzuela Pues ceo de runway ya sabéis
+qué empresa es tenemos gente de High
+Face tenemos gente de Twitter tenemos
+gente gente de todo tipo de todas las
+especialidades pues abogados empresarios
+inversores toda la gente que pueda estar
+relacionado con toda esta revolución
+corriendo todo a un lado en este máster
+y Bueno luego a todos ellos pues yo me
+sumo a la charla inaugural voy a estar
+dando esta ponencia de salida y ahí
+también tendremos oportunidad de
+conocernos el máster es online dura seis
+meses tenéis la posibilidad de
+matricularos ya Y además si lo hacéis
+pues tenéis un código de descuento de
+300 euros con el código dot csv300
+aprovechad la oportunidad porque este
+máster merece la pena para entender bien
+porque he llamado es tan importante
+primero tenéis que entender cuál ha sido
+el desarrollo la historia El culebrón
+que ha ido ocurriendo en los últimos
+meses estamos en febrero de 2023 hace
+unos meses y Chad gpt ya lleva un
+tiempito en nuestras vidas y mientras
+que Open ella y nos tiene impresionados
+por las capacidades de su modelo hay
+gente en internet que se empieza a hacer
+la siguiente pregunta
+podría la comunidad Open source crear un
+modelo como chat gpt pero que esté
+abierto y disponible para que todo el
+mundo lo use como quiera y La pregunta
+era legítima ya que la moral de la
+comunidad estaba bastante arriba después
+de lo que había ocurrido en el año 22
+recordemos que cuando en abril de 2022
+aparecieron los primeros modelos
+comerciales de generación de imágenes
+como Dalí 2 creíamos que uno estos
+modelos sólo los podían hacer las
+grandes empresas como opening o Google y
+dos que bueno de tener un modelo así
+disponible aún así sería imposible de
+utilizar y ejecutarlo en nuestro
+Hardware habitual en agosto 2022 una
+empresa estability ella y movió ficha e
+hizo la inversión de entrenar a stable
+difusión y lo compartió para uso y
+disfrute de la comunidad y el resto es
+historia entonces con esa perspectiva ya
+en febrero de este año pues la comunidad
+online estaba muy motivada para repetir
+La hazaña que se había logrado con
+stable Fusion
+gpt y de ahí surgieron muchas
+iniciativas como la de Open assistant
+que como muchos recordaréis estuvimos
+apoyando aquí desde este canal pero
+claro si esteble difusión nació fue
+porque una empresa debility ella y
+decidió pagar una fiesta y hacer la
+inversión de pagar toda la computación
+necesaria Y si ahora queremos tener a
+nuestro chat gpt pues alguien tenía que
+hacer esa inversión y aquí es donde
+aparece meta y le pone la mano en el
+hombro a la comunidad y le dice
+tranquila aquí tienes a tu modelo aquí
+tienes a llama Bueno en realidad el
+mensaje de metal no fue tan épico y de
+hecho la historia que hay detrás de esto
+es bastante rocambolesca en el caso de
+llama cuando meta lo presenta realmente
+lo que dicen es por seguridad no vamos a
+liberar Este modelo en internet sino que
+solo lo compartiremos con aquellos
+investigadores que se registran en este
+formulario Y de forma súper segura
+mandaremos el archivo por aquí una
+semana una semana tardó en filtrarse el
+modelo de llama en internet y para darle
+más comedia al asunto la forma en la que
+se filtró fue bastante de coña lo que
+pasa es que en el repositorio de github
+oficial de meta donde se compartía
+información del modelo un usuario hizo
+un Pull request donde da una alternativa
+a eso de rellenar el formulario de
+seguridad para descargar de los
+servidores lo que ofrecía era un enlace
+a un Torrent donde podías descargarte el
+modelo tú y cualquier persona Según
+decía para ahorrar consumo de ancho de
+banda internet es maravilloso y alguien
+discute si realmente el modelo se filtró
+o se filtró de forma intencionada por
+meta no lo sabemos pero lo que sí
+sabemos es que llama ya estaba en
+internet y ahora era turno de la
+comunidad Open source Y a todo esto a lo
+mejor te estarás preguntando Carlos Qué
+es llama pues llama es un enorme modelo
+del lenguaje el lm por sus siglas en
+inglés una Inteligencia artificial
+entrenada con muchísimo texto y cuya
+tarea es aprender a predecir cuál es el
+siguiente trozo de palabra es decir
+aprender el lenguaje y aprender a
+escribir
+y ojo llama no es chat gpt llama sería
+equivalente a un modelo como gpt2 como
+gp3 como pan de Google sería un modelo
+de lenguaje cuya única tarea es aprender
+a predecir la siguiente palabra Lo bueno
+es que no es un chat gpt pero para
+construir un chat gpt tener acceso a
+este tipo de modelos es algo fundamental
+ya que luego como vimos en este vídeo de
+aquí una vez tienes a uno de estos
+modelos capaces de generar lenguaje y
+escribir correctamente entrenarlo un
+poco más para que cumpla este rol de
+chatbot amigable que cumple
+instrucciones y que se rige dentro de el
+marco de lo correcto y lo moral pues no
+es tan complicado gp3 o llamas serían
+estos modelos base estos modelos
+fundacionales capaces de generar
+lenguaje pero que todavía no serían ese
+chatbot funcional como chat gpt y aquí
+es donde a medio de marzo aparecen
+modelos como alpaca y vicuña los
+primeros modelos que basados en llamas
+empiezan a reentrenar para que cumplan
+instrucciones y actúen como el chatbot
+que a todos Nos gustaría tener Y si os
+dais cuenta todo esto estaba ocurriendo
+en el mes de marzo al mismo tiempo que
+Open ellai estaba dando otro salto de
+gigante con la salida de gpt 4 y
+empresas como antropic pues estaban
+presentando a su modelo clodo modelos
+muy impresionantes pero privados que
+alejaban aún más el objetivo a conseguir
+Y aunque la comunidad estaba
+consiguiendo tecnología impresionante
+para trabajar Pues llama alpaca vicuña
+si os dais cuenta todavía estos modelos
+dependían de que grandes organizaciones
+como meta como Stanford que tenían
+recursos computacionales suficientes
+pues hicieron este pre entrenamiento o
+reentrenamiento a posteriori seguíamos
+dependiendo de la computación para poder
+avanzar algo que cambiaría con la
+llegada de Lora Lora es una técnica que
+quizás os une de los vídeos de stable
+difusión Y es que se trata de una
+técnica que ganó bastante popularidad
+del año pasado al permitir a un
+modelo como stable Fusion y reentrenarlo
+hacerle fine tuning a un costo
+computacional mucho más reducido que de
+la forma tradicional cuando tú tienes
+una red neuronal y seleccionarla
+actualizando sus parámetros tener que
+actualizar los millones y millones de
+parámetros que constituyen a un modelo
+como llama pues puede llevar mucho
+tiempo y dinero y aquí la técnica del
+óralo consigue es un reentrenamiento
+semejante pero dedicando la computación
+solo actualizar a un número muy inferior
+de parámetros Y qué ganamos con esto
+pues tiempo de reentrenamientos mucho
+más bajos y a menor coste estamos
+hablando que si quisieras hacer un
+tuning de un modelo como GP de 3 que
+tiene 175.000 millones de parámetros
+Lora te permitiría ser algo similar
+solamente actualizando 17 millones de
+parámetros lo que sería una reducción de
+10.000 veces esto pues evidentemente
+Lora Mola se merece una ola un tsunami
+eso
+y no solo esto sino que la agilidad de
+la comunidad Open source también
+permitió que en semana se pudiera
+implementar avances que a otras empresas
+le habían llevado meses la integración
+con modelos de visión para implementar
+la famosa multimodalidad que todavía
+estamos esperando el uso de herramientas
+semejante a los plugins de chat gpt
+ventanas de contexto más grandes o mira
+optimizaciones que permitían ejecutar
+estos modelos en tu propio ordenador o
+en un Hardware más limitado como el de
+un móvil y todas ahora estarás pensando
+pero Carlos esto no son enormes modelos
+de lenguaje esto no son modelos con
+miles de millones de parámetros que
+ocupan muchísimo espacio en la memoria
+de la gpu y que por tanto no podríamos
+ejecutar en una tostadora el poder
+ejecutar estos modelos en nuestro
+ordenador se está consiguiendo y esto
+Gracias a que la comunidad opensors
+optimiza muy bien y aquí otra de las
+claves de los últimos meses están en las
+técnicas de cuantización esta es una
+técnica que te permite tomar los
+parámetros de tu red neuronal que como
+sabéis son números decimales que ocupan
+un cierto espacio en tamaño bits en
+memoria y cambiarlo a otro tipo de dato
+que ocupe menos espacio Pues a lo mejor
+una cuarta parte menos así a Costa de
+algo de precisión y de rendimiento del
+modelo podemos conseguir mejoras
+sustanciales en cuanto a ocupación de
+memoria reduciendo fácilmente en cuatro
+o en 8 el tamaño original del modelo y
+permitiendo que cada vez más gpus puedan
+ejecutar así Si os dais cuenta el margen
+de separación entre los modelos opensors
+y los modelos privados como chat gpt o
+Bart en cuestión de meses se ha ido
+cerrando radicalmente algo que quedó
+patente en este artículo de aquí
+titulado no tenemos ventaja competitiva
+y tampoco opening y ahí la tiene una
+carta presuntamente filtrada por un
+trabajador de Google donde se reconocía
+que ni Google ni opening y hay iban a
+ser capaces de sostener en el tiempo la
+ventaja competitiva frente a la
+comunidad Open source principalmente
+motivada por la salida de llama en
+febrero de este año porque pensadlo al
+ritmo al que se la comunidad Open source
+no sería una locura Que el año que viene
+tengamos a un modelo como gpt 4 pero de
+libre acceso y en ese momento imaginad
+que sois una empresa que tenéis que
+decidir si queréis pues contratar los
+servicios de opening de Google para
+mandar vuestros datos a una empresa de
+tercero donde utilizar a uno de estos
+modelos privados preferiríais eso o
+utilizar un modelo que podéis ejecutar
+en vuestro Hardware en vuestro ordenador
+en vuestra empresa cumpliendo la
+privacidad de vuestros datos y de
+vuestros clientes pues la pregunta no es
+tan fácil de responder Y es que llama
+tiene un problema y es que las empresas
+no podrían utilizarla porque la licencia
+no permitía uso comercial de este modelo
+por lo tanto puesto que la licencia con
+la que se había liberado a yaman no
+permitía el uso comercial no tenemos ni
+llama ni alpaca ni vicuña ni nada Este
+era el gran problema de llama y por
+suerte en los últimos meses en toda esta
+explosión de enormes modelos de lenguaje
+hemos tenido muy buenas alternativas con
+licencias que sí permitían Su uso
+comercial como el modelo mpt de mil
+millones de parámetros o el modelo
+Falcón de 40.000 millones modelos que en
+rendimientos se acercaban a lo que
+ofrecía llama pero que todavía ninguno
+conseguía superar y yo creo que ahora
+todos entendéis la importancia de lo que
+ha sucedido esta semana la llama quería
+ser libre y meta así lo entendió con la
+salida de la segunda versión de Llama a
+unos pocos meses de la primera versión
+lo que meta ha regalado a la comunidad
+de Deep learning es un modelo más
+potente que la primera versión y ahora
+sí disponible para uso comercial
+[Música]
+aún así hay varias incógnitas que
+resolver y la más importante la que más
+me ha descolocado es que pinta Microsoft
+en todo esto y por qué de repente
+empresas que parecían que estaban
+compitiendo aparecen aliadas para
+anunciar a este modelo recordemos que
+Microsoft es el principal Aliado
+comercial de opening creadores de chat
+gpt
+Microsoft
+y uno de los principales beneficios que
+ellos acaban de esta Alianza comercial
+era poder integrar mucha de la
+tecnología de oppen en sus productos por
+ejemplo pinchad Windows copilot
+Microsoft 365 Entonces si esto es así
+qué sentido tiene ahora estar aliándose
+con la competencia quien está
+proponiendo además romper el mercado por
+completo al liberar una alternativa open
+source
+the other Element es Microsoft
+pues analizando la posterior y diría que
+es un movimiento bastante inteligente la
+ventaja de liberar tu tecnología es que
+ahora tienes a toda la comunidad online
+trabajando sobre ella optimizando la
+mejorándola a un ritmo que ninguna otra
+empresa ni laboratorio de Inteligencia
+artificial puede igualar mejoras en tu
+tecnología que luego tú como empresa te
+puede beneficiar al integrar esta
+tecnología en tus productos y servicios
+aquí meta se beneficiará cuando integren
+a llamados en su Instagram en su
+WhatsApp en su Facebook y de la misma
+forma su Aliado comercial Microsoft
+también se beneficiará de ello cuando lo
+integran en Windows en office y en todos
+sus servicios por tanto tú y tus socios
+comerciales pues se podrán beneficiar de
+los avances en esta tecnología pero
+Carlos no se supone que si el modelo Es
+de uso comercial pues cualquier empresa
+se podría beneficiar de los avances que
+se produzcan en llamados y las
+respuestas que sí con un asterisco Y es
+que aquí meta incluido una cláusula muy
+curiosa en su licencia donde si eres una
+empresa con más de 700 millones de
+usuarios activos ahí sí que tienes que
+pedirle permiso a meta para poder
+utilizarlo una cláusula que
+evidentemente está colocada para limitar
+el acceso comercial al modelo de sus
+grandes competidores y hablando del
+modelo recuperemos el objetivo original
+es mejor que chat gpt pues respuesta
+corta es comparable a chat gpt3 y no
+llega al nivel de chat gpt 4 la nueva
+versión de llama viene en tres tamaños
+medido por su número de parámetros donde
+el modelo mayor será el que mejor rinda
+y el menor el que más rápido y menos
+requerimiento de Hardware necesitará y
+que posiblemente veamos integrado en
+muchos dispositivos móviles a lo largo
+del año además en esta ocasión no solo
+están compartiendo el modelo del
+lenguaje base llamado sino también un
+modelo reentrenado pues como era vicuña
+para actuar como un chatbot y así Bueno
+pues tener una variante ya más orientada
+a ser como chat gpt el modelo tiene una
+ventana de contexto de 4000 tokens lo
+cual lo hace equivalente al modelo
+gpt3.5 y como se puede ver en esta tabla
+algunas de Las evaluaciones que se ha
+hecho de la inteligencia de este modelo
+Pues nos muestra que su nivel está a la
+altura de la versión gratuita de chat
+gpt la versión 3 Pero hay una pega y
+quiero que lo veáis bien en esta tabla
+fijaos bien la diferencia que existe en
+la evaluación de Human Evans esta
+evaluación lo que mide es la capacidad
+del modelo de poder generar código que
+sea funcional de poder programar y aquí
+se puede ver lo que sería una de las
+grandes carencias de este modelo Y es
+que parece que no lo han entrenado con
+el objetivo de generar código en mente
+algo que es extraño porque una cosa que
+se ha comprobado en los últimos meses es
+que estos enormes modelos de lenguaje
+cuando los entrenas con código de
+programación no solo mejoran
+evidentemente en sus capacidades de
+programar sino que también mejoran en
+sus capacidades de razonamiento lógico y
+resolución de problemas a través del
+lenguaje natural es decir lo más
+inteligente y por algún motivo meta
+descartado esto y creo que esto ilustra
+bien Por qué creo que Open y ya hay pues
+por ahora puede estar tranquila y es que
+todavía no existe un modelo ni privado
+ni de libre acceso que ponga entre las
+cuerdas a GP de 4 que es el rival abatir
+recordemos que la punta de lanza y quien
+ha detonado toda esta Revolución ha sido
+opening a través de chat gpt Quienes son
+los que han puesto algo innovador sobre
+la mesa y me imagino que Microsoft esto
+no lo va a olvidar tan rápido Entonces
+sí opening creo que puede estar
+tranquila pero no se deberían de relajar
+y es que algo que ha cambiado es la
+narrativa no opening lleva desde hace
+unos años desde la salida de gpt 2 pues
+metiendo esta idea en la cabeza de que
+estos modelos no se deberían de liberar
+tan a la ligera por motivos de seguridad
+un discurso que les ha permitido ir
+cerrando poco a poco esa puerta que
+estaba muy abierta en el mundo del Deep
+learning de compartir modelos compartir
+paper y que ha instaurado un secretismo
+comercial muy raro en los últimos años
+pues ha llegado meta y ha dicho Mira
+Google Open ella y yo es que no vengo
+aquí a pelearme por a ver quién hace el
+modelo más potente yo creo que esto
+debería estar en abierto rompo el
+mercado llegó con mi modelo lo hago
+pensor saco Sam saco Dinos saco todo lo
+que tengo y pues ha cambiado el discurso
+quién sabe si esto ahora motivará a
+opening a seguir compartiendo modelos en
+abierto y por último qué esperar de todo
+esto qué va a pasar ahora porque es tan
+Revolucionario con lo que podéis esperar
+ahora es una explosión de chat Bots de
+servicios conversacionales de
+optimizaciones en el modelo de llama que
+van a llegar desde ya seguramente
+tengáis curiosidad por saber si el
+modelo cabe en vuestra gpu si podéis
+ejecutarlo en vuestro móvil y todas
+estas cosas pero mi consejo es que
+esperéis un poco a que la comunidad
+trabaje esto se va a mover muy muy
+rápido ahora vamos a ver en cuestión de
+días como organizaciones para empezar a
+reentrenar a sus modelos basados en
+llamas y los van a compartir veremos
+gente que se anime a optimizar y a
+cuantizar el modelo para que mejores
+memoria veremos personalizaciones y fine
+tunings entrenadas con Lora y bueno
+Cuánto ha pasado 23 días Pues ya hay
+gente en Twitter que está compartiendo
+que han conseguido ampliar la ventana de
+contexto a 8.000 tokens con técnicas que
+ya se conocían es decir todos se va a
+mover muy muy rápido aún así Si queréis
+testear el modelo Hay un montón de
+opciones y os voy a dejar abajo en la
+caja de descripción un par de enlaces
+para que podáis echarle un ojo dicho
+esto quiero que os deis cuenta de que
+estamos viviendo tiempos excepcionales
+donde si por una parte ya la generación
+de imágenes estaba explotando con la
+llegada de stable difusión ahora la
+llegada de llamados introduce un nuevo
+tsunami una Nueva Ola y una nueva
+corriente que vamos a estar viendo cómo
+se desarrolla en los próximos meses
+chicos chicas ya sabéis que toda la
+actualidad y todo el conocimiento que os
+puedo brindar sobre Inteligencia
+artificial lo tenéis aquí en mi canal de
+YouTube dot csv tendremos más en el
+próximo vídeo Muchas gracias y hasta la
+próxima
+Source (Link) of Information: https://www.youtube.com/watch?v=vgbMR0lDQBI

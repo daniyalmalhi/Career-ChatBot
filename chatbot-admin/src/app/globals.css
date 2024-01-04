@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;400&family=Poppins:wght@100;300;400&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  padding: 120px 24px 160px 24px;
+  pointer-events: none;
+}
+
+.main:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+
+.main:after {
+  content: "";
+  background-image: url("/assets/pexels-scott-webb-3255761.jpg");
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  opacity: 0.4;
+}
+
+.gradient {
+  height: fit-content;
+  width: 100%;
+  max-width: 640px;
+  background-image: radial-gradient(
+      at 27% 37%,
+      hsla(215, 98%, 61%, 1) 0px,
+      transparent 0%
+    ),
+    radial-gradient(at 97% 21%, hsla(125, 98%, 72%, 1) 0px, transparent 50%),
+    radial-gradient(at 52% 99%, hsla(354, 98%, 61%, 1) 0px, transparent 50%),
+    radial-gradient(at 10% 29%, hsla(256, 96%, 67%, 1) 0px, transparent 50%),
+    radial-gradient(at 97% 96%, hsla(38, 60%, 74%, 1) 0px, transparent 50%),
+    radial-gradient(at 33% 50%, hsla(222, 67%, 73%, 1) 0px, transparent 50%),
+    radial-gradient(at 79% 53%, hsla(343, 68%, 79%, 1) 0px, transparent 50%);
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  filter: blur(100px) saturate(150%);
+  top: 80px;
+  opacity: 0.15;
+}
+
+@media screen and (max-width: 640px) {
+  .main {
+    padding: 0;
+  }
+}
+
+/* Tailwind Styles */
+
+.app {
+  @apply relative flex justify-center items-center flex-col mx-auto h-screen my-auto;
+}
+
+.main {
+  @apply w-full h-screen;
+}
+
+.nav_btn {
+  @apply bg-primaryWhite text-primaryBlue font-poppins hover:bg-slate-100 px-3 p-2 rounded-sm;
+}
+
+.logo_text {
+  @apply font-poppins text-2xl font-normal text-white;
+}
+
+.providers_btn {
+  @apply flex items-center justify-center border-2 border-primaryBlue text-primaryBlue font-poppins hover:bg-slate-100 px-3 p-2 rounded-sm w-full;
+}
+
+.input_signIn{
+  @apply border-2 border-primaryBlue text-primaryBlue  placeholder:text-blue-200 font-poppins px-3 p-2 rounded-sm;
+}
+
+.btn{
+  @apply hover:border-2 hover:border-primaryBlue hover:text-primaryBlue hover:bg-primaryWhite bg-primaryBlue text-white font-poppins px-3 p-2 rounded-sm ease-in-out duration-100 w-full;
+}
+
+.typing-animation {
+  display: flex;
+  position: relative;
+  width: 40px;
+  height: 10px;
+  margin-left: 20px;
+}
+
+.dot-1,
+.dot-2,
+.dot-3 {
+
+  left: 0;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+  background-color: #164D5F;
+  border-radius: 50%;
+  animation: ripple 1s infinite ease-in-out;
+}
+
+.dot-2 {
+  left: 15px;
+  animation-delay: 0.2s;
+  color: #c3c3c3;
+}
+
+.dot-3 {
+  left: 30px;
+  animation-delay: 0.4s;
+}
+
+@keyframes ripple {
+  0% {
+      transform: translateY(0);
+      opacity: 0.5;
+  }
+
+  50% {
+      opacity: 1;
+  }
+
+  100% {
+      transform: translateY(-5px);
+      opacity: 0.5;
+  }
+}
+
+
+.dropdown {
+  @apply absolute md:right-0 top-full md:mt-3 md:w-fit w-full max-md:items-center p-5 md:rounded-lg bg-primaryWhite min-w-[210px] flex flex-col gap-2 justify-end items-end shadow-2xl;
+}
+
+.dropdown_link {
+  @apply text-sm font-inter text-primaryBlue hover:text-blue-400 font-medium;
+}
+
+
+.settings_btn {
+  @apply flex items-center justify-evenly border-2 border-primaryBlue text-primaryBlue font-poppins hover:bg-slate-100 p-2 rounded-sm w-full px-10;
+}
+
+.settings_input{
+  @apply border-2 border-primaryBlue text-primaryBlue  placeholder:text-blue-200 font-poppins p-2 rounded-md w-full;
+}
+
+
+.settings_input_file{
+  @apply border-2 h-[150px] border-primaryBlue text-primaryBlue  placeholder:text-blue-200 font-poppins p-2 rounded-md w-full file:bg-primaryBlue file:text-white file:border-none file:py-1 file:px-5 file:rounded-sm hover:file:cursor-pointer hover:file:bg-primaryWhite hover:file:text-primaryBlue hover:file:border-2 hover:file:border-primaryBlue file:duration-150 file:ease-in;
+}
+
+.copy_btn {
+  @apply w-7 h-7 rounded-full bg-white/10 shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.2)] backdrop-blur flex justify-center items-center cursor-pointer;
+}
+
+.modal-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 50;
+  background-color: white;
+  border: 1.5px solid black;
+  padding: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  max-width: 90%; /* Adjust this value to set the maximum width of the modal */
+  max-height: 80%; /* Adjust this value to set the maximum height of the modal */
+  overflow-y: auto; /* Enable vertical scrolling when content exceeds the height */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
